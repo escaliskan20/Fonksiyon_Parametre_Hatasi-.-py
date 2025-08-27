@@ -26,6 +26,6 @@ Merhaba Nezir
 
 
 
-Konu
+# Konu
 • "fonksiyon parametrelerinde sabit bir isim kullanmanın hatalı olduğunu gösteren mini proje. 
 kullanıcıdan alınan değişken doğru şekilde fonksiyona gönderiliyor. " 
