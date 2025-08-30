@@ -16,7 +16,8 @@ selam_ver(Nezir)
 Burada Nezir sabit bir isim olarak parametreye yazılmış ve tanımlı değil.
 selam_ver(Nezir) çağrısı hataya yol açar, çünkü Nezir değişkeni yok.
 
-## 🔹 Doğru Kullanım
+## 🔹 Doğru kullanım
+
 
 def selam_ver(isim):
     print("Merhaba", isim)
